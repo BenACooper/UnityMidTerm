@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PickCube
+  - Ground
+  - Builder
+  - BlueCube
+  - PurpleCube
+  - BlackCube
+  - ChromeCube
+  - BigRobot
+  - BigCube
+  - BigPad
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - Bullet
+  - Rocket
+  - BulletDestroyable
+  - RocketDestroyable
+  - Selectable
+  - Pickable
+  - Colored
+  - BigPickable
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
